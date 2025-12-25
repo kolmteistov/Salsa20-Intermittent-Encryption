@@ -11,6 +11,9 @@ This project implements the "Intermittent Encryption" technique—a method popul
 Author's Note:
 Since my Old PC broke down a few months ago, I had to complete this entire project and documentation using only my smartphone (via Termux/Android environment). I apologize for any shortcomings in the documentation, formatting, or writing quality. I'm doing my best with the limited resources I have.
 
+Security Background & Account History:
+You might notice this GitHub account is relatively new. In January 2024, my previous workstation was compromised by an Infostealer malware, which led to the loss of my original credentials and forced me to migrate my research to this new environment. This incident, combined with my old primary PC failure, is why I am currently finalizing and documenting this long-term research from a mobile device.
+
 ## 🛠 Key Features
 * **Salsa20 Stream Cipher:** Fast and secure software-based encryption.
 * **Memory-Mapped Files:** Efficiently process 100GB+ files with minimal RAM usage.
