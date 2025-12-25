@@ -16,7 +16,7 @@ You might notice this GitHub account is relatively new. In January 2024, my prev
 
 ## 🛠 Key Features
 * **Salsa20 Stream Cipher:** Fast and secure software-based encryption.
-* **Memory-Mapped Files:** Efficiently process 100GB+ files with minimal RAM usage.
+* **Memory-Mapped Files:** Efficiently process large files with minimal RAM usage.
 * **Adaptive Parameters:** Encryption patterns that adapt to file types (.txt, .mp4, .db).
 * **Deterministic Jumps:** Using LCG for reproducible encryption patterns during decryption.
 
